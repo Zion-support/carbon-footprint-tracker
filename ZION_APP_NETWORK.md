@@ -1,19 +1,23 @@
-# 🌐 Part of the Zion Tech Group App Network
+# Zion App Network — Interlinks
 
-**Carbon Footprint Tracker** is a member of the [Zion Tech Group App Network](https://ziontechgroup.com/zion-app-network/) — a family of AI-powered business applications.
+**carbon-footprint-tracker** is part of the [Zion AI App Network](https://github.com/Zion-support/zion-app-network) — 822+ interlinked AI apps by [Zion Tech Group](https://ziontechgroup.com/).
 
-- 🏠 Homepage: [ziontechgroup.com](https://ziontechgroup.com)
-- 📚 Master App Directory: [ziontechgroup.com/zion-app-network](https://ziontechgroup.com/zion-app-network/)
-- 💻 Network Hub (GitHub): [Zion-support/zion-app-network](https://github.com/Zion-support/zion-app-network)
-- 🚀 Live App: [ziontechgroup.com/carbon-footprint-tracker](https://ziontechgroup.com/carbon-footprint-tracker/)
+## Core links
+- Homepage: https://ziontechgroup.com/
+- Plans & pricing: https://ziontechgroup.com/en/plans/
+- Discovery call: https://ziontechgroup.com/discovery/
+- All tools: https://ziontechgroup.com/tools/
+- Hub page: https://ziontechgroup.com/zion-app-network/
+- Live page: https://ziontechgroup.com/carbon-footprint-tracker/
 
-## Related apps
+## Batch 71 — Energy & Sustainability AI
+- [energy-consumption-forecaster](https://github.com/Zion-support/energy-consumption-forecaster) — https://ziontechgroup.com/energy-consumption-forecaster/
+- [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — https://ziontechgroup.com/carbon-footprint-tracker/
+- [solar-roi-optimizer](https://github.com/Zion-support/solar-roi-optimizer) — https://ziontechgroup.com/solar-roi-optimizer/
+- [grid-demand-balancer](https://github.com/Zion-support/grid-demand-balancer) — https://ziontechgroup.com/grid-demand-balancer/
+- [esg-report-builder](https://github.com/Zion-support/esg-report-builder) — https://ziontechgroup.com/esg-report-builder/
+- [building-efficiency-auditor](https://github.com/Zion-support/building-efficiency-auditor) — https://ziontechgroup.com/building-efficiency-auditor/
 
-- [Energy Audit Copilot](https://ziontechgroup.com/energy-audit-copilot/) — building energy savings
-- [Renewable Energy Forecaster](https://ziontechgroup.com/renewable-energy-forecaster/) — solar & wind forecasting
-- [Energy Optimizer AI](https://ziontechgroup.com/energy-optimizer-ai/) — real-time facility optimization
+Previous batch: [Batch 70 — AI Platform & Engineering Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-01-BATCH70.md)
 
-Want a guided tour? [Book a Discovery call](https://ziontechgroup.com) with the Zion team.
-
----
 © 2026 Zion Tech Group
